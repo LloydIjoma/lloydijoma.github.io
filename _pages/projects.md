@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Collections"
 author_profile: true
 header:
-  image: "/images/main.png"
+  image: "/images/bigdata.png"
 
 ---
 
