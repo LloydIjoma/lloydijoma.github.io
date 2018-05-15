@@ -14,4 +14,4 @@ except: "Text Mining"
  In this article, we will explore the very simple step by step guide to text mining using R.
  
  
-tags:  [http://enyinnayaijoma.blogspot.com.ng/2016/08/simple-step-by-step-guide-to-text-mining.html]
+[I'm an inline-style link](http://enyinnayaijoma.blogspot.com.ng/2016/08/simple-step-by-step-guide-to-text-mining.html)
