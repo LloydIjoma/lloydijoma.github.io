@@ -3,6 +3,8 @@ layout: post
 title:  "Welcome to Artificial intelligence!"
 date: 2018-05-14
 tags: [artificial intelligence, neural networks]
+header:
+  image: "/images/AI.jpg"
 except: "artificial intelligence, neural networks"
 ---
 
