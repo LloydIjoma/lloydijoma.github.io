@@ -1,11 +1,9 @@
 ---
+layout: post
 title:  "Welcome to Artificial intelligence!"
 date: 2018-05-14
-tags: [ artificial intelligence, neural networks]
-header:
-  image "/images/AI.jpg"
+tags: [artificial intelligence, neural networks]
 except: "artificial intelligence, neural networks"
- 
 ---
 
 Whatever you may think of new digital technologies, such as artificial intelligence, 
