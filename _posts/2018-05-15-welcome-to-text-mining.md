@@ -3,6 +3,8 @@ layout: post
 title:  "simple-step-by-step-guide-to-text-mining!"
 date: 2018-05-15
 tags: [Text Mining]
+header:
+   image: "/images/projects/download.jpg"
 
 except: "Text Mining"
 ---
