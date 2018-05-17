@@ -3,8 +3,6 @@ layout: post
 title:  "Five reasons why you need predictive analytics for your business!"
 date: 2018-05-16
 tags: [Predictive Analytics]
-header:
-   image: "/images/projects/download.jpg"
 
 except: "Predictive Analytics for Business Growth"
 ---
