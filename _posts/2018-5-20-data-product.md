@@ -2,7 +2,7 @@
 layout: post
 title:  "Designing A Data Product!"
 date: 2018-05-20
-tags: [How to Design a Data Product]
+tags: [Data Product]
 
 except: "Designing A Data Product"
 ---
